@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="KESAPortal.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="KESAPortal.My.MySettings.RegistrationDBConnectionString"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\RegistrationDB.accdb"
+            providerName="System.Data.OleDb" />
+    </connectionStrings>
+    <startup>
+        
+    <supportedRuntime version="v2.0.50727"/></startup>
+    <userSettings>
+        <KESAPortal.My.MySettings>
+            <setting name="Tabpageload" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Name" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Position" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Index" serializeAs="String">
+                <value />
+            </setting>
+        </KESAPortal.My.MySettings>
+    </userSettings>
+</configuration>

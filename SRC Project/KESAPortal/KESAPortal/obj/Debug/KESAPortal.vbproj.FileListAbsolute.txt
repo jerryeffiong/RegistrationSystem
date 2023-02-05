@@ -1,0 +1,13 @@
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\bin\Debug\KESAPortal.exe.config
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\bin\Debug\KESAPortal.exe
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\bin\Debug\KESAPortal.pdb
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\bin\Debug\KESAPortal.xml
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\obj\Debug\KESAPortal.Form1.resources
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\obj\Debug\KESAPortal.Resources.resources
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\obj\Debug\KESAPortal.vbproj.GenerateResource.Cache
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\obj\Debug\KESAPortal.exe
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\obj\Debug\KESAPortal.xml
+c:\users\jerrysdsantos\documents\visual studio 2012\Projects\KESAPortal\KESAPortal\obj\Debug\KESAPortal.pdb
+C:\Users\jerrysdsantos\Documents\Visual Studio 2012\Projects\KESAPortal\KESAPortal\bin\Debug\RegistrationDB.accdb
+C:\Users\jerrysdsantos\Documents\Visual Studio 2012\Projects\KESAPortal\KESAPortal\obj\Debug\KESAPortal.Login.resources
+C:\Users\jerrysdsantos\Documents\Visual Studio 2012\Projects\KESAPortal\KESAPortal\obj\Debug\KESAPortal.Register.resources

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KESAPortal
+</name>
+</assembly>
+<members>
+<member name="P:KESAPortal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KESAPortal.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:KESAPortal.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.CivilDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ComputerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ElectricalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.GeomaticDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.MechanicalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ConstructionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.CivilRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ComputerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ElectricalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.GeomaticRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.MechanicalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ConstructionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.CivilRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ComputerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ElectricalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.GeomaticRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.MechanicalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet.ConstructionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.CivilTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.ComputerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.ElectricalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.GeomaticTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.MechanicalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.ConstructionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KESAPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KESAPortal.RegistrationDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KESAPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KESAPortal.RegistrationDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KESAPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KESAPortal.RegistrationDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KESAPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KESAPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateAll(KESAPortal.RegistrationDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KESAPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

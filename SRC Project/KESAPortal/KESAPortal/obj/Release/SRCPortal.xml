@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SRCPortal
+</name>
+</assembly>
+<members>
+<member name="P:SRCPortal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.back1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.Image1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.KESA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.lock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.logout1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.passwordLogo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.src_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.src_logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.SRCLogo">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.userLogo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SRCPortal.My.Resources.Resources.UserPic">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="T:SRCPortal.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.CivilDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ComputerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ElectricalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.GeomaticDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.MechanicalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ConstructionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ExecutiveTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.AdminsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.CivilRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ComputerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ElectricalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.GeomaticRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.MechanicalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ConstructionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ExecutiveTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.AdminsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.CivilRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ComputerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ElectricalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.GeomaticRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.MechanicalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ConstructionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.ExecutiveTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet.AdminsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.CivilTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.ComputerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.ElectricalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.GeomaticTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.MechanicalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.ConstructionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.ExecutiveTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.AdminsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SRCPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SRCPortal.RegistrationDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SRCPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SRCPortal.RegistrationDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SRCPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SRCPortal.RegistrationDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SRCPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SRCPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateAll(SRCPortal.RegistrationDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SRCPortal.RegistrationDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
